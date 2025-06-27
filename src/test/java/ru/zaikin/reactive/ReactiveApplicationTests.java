@@ -1,10 +1,10 @@
-package com.javatechie.webflux;
+package ru.zaikin.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootWebfluxDemoApplicationTests {
+class ReactiveApplicationTests {
 
 	@Test
 	void contextLoads() {
